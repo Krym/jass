@@ -1,0 +1,11 @@
+{
+  "name": "jass",
+  "version": "1.0.0",
+  "description": "just another space simulator",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Krym",
+  "license": "ISC"
+}
